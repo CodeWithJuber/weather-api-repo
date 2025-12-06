@@ -17,8 +17,8 @@
    ```
    Name: hosting-company-app
    Environment: Node
-   Build Command: npm run install:all && cd frontend && npm run build
-   Start Command: cd backend && npm run seed && npm start
+   Build Command: npm install && npm run build
+   Start Command: npm start
    ```
 
 5. **Add Environment Variables**
